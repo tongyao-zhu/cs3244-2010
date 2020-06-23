@@ -116,6 +116,14 @@ Office hours are held (before and after class), but more commonly by appointment
   <A HREF="mailto:tongyao.zhu@u.nus.edu">tongyao.zhu@u.nus.edu</A><BR/>
 </div>
 
+<div class="author__avatar">
+  <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally -->
+  <img src="images/bio-photo.jpg"/><BR/>
+  <strong>Achal RAYAKAR</strong>
+  <BR/>
+  <A HREF="mailto:achal@u.nus.edu">achal@u.nus.edu</A><BR/>
+</div>
+
 </div>
 
 ### Workload
